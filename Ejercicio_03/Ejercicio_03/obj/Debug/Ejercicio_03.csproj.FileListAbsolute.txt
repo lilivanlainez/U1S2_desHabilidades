@@ -1,0 +1,20 @@
+C:\Users\renes\OneDrive - Universidad Francisco Gavidia\Ciclo 01-2024\IMPLEMENTACIÓN DE LENGUAJES DE PROGRAMACIÓN\U1\CG100421-Guía practica 1\Ejercicio_03\Ejercicio_03\bin\Debug\Ejercicio_03.exe.config
+C:\Users\renes\OneDrive - Universidad Francisco Gavidia\Ciclo 01-2024\IMPLEMENTACIÓN DE LENGUAJES DE PROGRAMACIÓN\U1\CG100421-Guía practica 1\Ejercicio_03\Ejercicio_03\bin\Debug\Ejercicio_03.exe
+C:\Users\renes\OneDrive - Universidad Francisco Gavidia\Ciclo 01-2024\IMPLEMENTACIÓN DE LENGUAJES DE PROGRAMACIÓN\U1\CG100421-Guía practica 1\Ejercicio_03\Ejercicio_03\bin\Debug\Ejercicio_03.pdb
+C:\Users\renes\OneDrive - Universidad Francisco Gavidia\Ciclo 01-2024\IMPLEMENTACIÓN DE LENGUAJES DE PROGRAMACIÓN\U1\CG100421-Guía practica 1\Ejercicio_03\Ejercicio_03\obj\Debug\Ejercicio_03.csproj.AssemblyReference.cache
+C:\Users\renes\OneDrive - Universidad Francisco Gavidia\Ciclo 01-2024\IMPLEMENTACIÓN DE LENGUAJES DE PROGRAMACIÓN\U1\CG100421-Guía practica 1\Ejercicio_03\Ejercicio_03\obj\Debug\Ejercicio_03.Form1.resources
+C:\Users\renes\OneDrive - Universidad Francisco Gavidia\Ciclo 01-2024\IMPLEMENTACIÓN DE LENGUAJES DE PROGRAMACIÓN\U1\CG100421-Guía practica 1\Ejercicio_03\Ejercicio_03\obj\Debug\Ejercicio_03.Properties.Resources.resources
+C:\Users\renes\OneDrive - Universidad Francisco Gavidia\Ciclo 01-2024\IMPLEMENTACIÓN DE LENGUAJES DE PROGRAMACIÓN\U1\CG100421-Guía practica 1\Ejercicio_03\Ejercicio_03\obj\Debug\Ejercicio_03.csproj.GenerateResource.cache
+C:\Users\renes\OneDrive - Universidad Francisco Gavidia\Ciclo 01-2024\IMPLEMENTACIÓN DE LENGUAJES DE PROGRAMACIÓN\U1\CG100421-Guía practica 1\Ejercicio_03\Ejercicio_03\obj\Debug\Ejercicio_03.csproj.CoreCompileInputs.cache
+C:\Users\renes\OneDrive - Universidad Francisco Gavidia\Ciclo 01-2024\IMPLEMENTACIÓN DE LENGUAJES DE PROGRAMACIÓN\U1\CG100421-Guía practica 1\Ejercicio_03\Ejercicio_03\obj\Debug\Ejercicio_03.exe
+C:\Users\renes\OneDrive - Universidad Francisco Gavidia\Ciclo 01-2024\IMPLEMENTACIÓN DE LENGUAJES DE PROGRAMACIÓN\U1\CG100421-Guía practica 1\Ejercicio_03\Ejercicio_03\obj\Debug\Ejercicio_03.pdb
+C:\Users\DELL-PRECISION\Documents\GitHub\Unidad-1\Ejercicio_03\Ejercicio_03\bin\Debug\Ejercicio_03.exe.config
+C:\Users\DELL-PRECISION\Documents\GitHub\Unidad-1\Ejercicio_03\Ejercicio_03\bin\Debug\Ejercicio_03.exe
+C:\Users\DELL-PRECISION\Documents\GitHub\Unidad-1\Ejercicio_03\Ejercicio_03\bin\Debug\Ejercicio_03.pdb
+C:\Users\DELL-PRECISION\Documents\GitHub\Unidad-1\Ejercicio_03\Ejercicio_03\obj\Debug\Ejercicio_03.csproj.AssemblyReference.cache
+C:\Users\DELL-PRECISION\Documents\GitHub\Unidad-1\Ejercicio_03\Ejercicio_03\obj\Debug\Ejercicio_03.Form1.resources
+C:\Users\DELL-PRECISION\Documents\GitHub\Unidad-1\Ejercicio_03\Ejercicio_03\obj\Debug\Ejercicio_03.Properties.Resources.resources
+C:\Users\DELL-PRECISION\Documents\GitHub\Unidad-1\Ejercicio_03\Ejercicio_03\obj\Debug\Ejercicio_03.csproj.GenerateResource.cache
+C:\Users\DELL-PRECISION\Documents\GitHub\Unidad-1\Ejercicio_03\Ejercicio_03\obj\Debug\Ejercicio_03.csproj.CoreCompileInputs.cache
+C:\Users\DELL-PRECISION\Documents\GitHub\Unidad-1\Ejercicio_03\Ejercicio_03\obj\Debug\Ejercicio_03.exe
+C:\Users\DELL-PRECISION\Documents\GitHub\Unidad-1\Ejercicio_03\Ejercicio_03\obj\Debug\Ejercicio_03.pdb
